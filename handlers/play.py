@@ -454,7 +454,7 @@ async def play(_, message: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🔴 Flood Wait Error 🔴 \nAssistant {user.first_name} tidak dapat bergabung dengan grup Anda karena banyaknya permintaan bergabung untuk userbot! Pastikan pengguna tidak dibanned dalam grup."
-                                  "\n\nAtau tambahkan secara manual @botmusikman ke Grup Anda dan coba lagi</b>",
+                                  "\n\nAtau tambahkan secara manual @asnachwan ke Grup Anda dan coba lagi</b>",
                               )
                               pass
     try:
@@ -508,10 +508,10 @@ async def play(_, message: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Group Support", url="https://t.me/SharingUserbot"
+                        "Channel Update", url="https://t.me/enzybotmusik"
                     ),
                     InlineKeyboardButton(
-                        "Owner Music Man", url="https://instagram.com/mrismanaziz_"
+                        "Owner Musik Enzy", url="https://instagram.com/ferdi_an04"
                     )
                 ],
                 [       
@@ -604,7 +604,7 @@ async def deezer(client: Client, message_: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🔴 Flood Wait Error 🔴 \nAssistant {user.first_name} tidak dapat bergabung dengan grup Anda karena banyaknya permintaan bergabung untuk userbot! Pastikan pengguna tidak dibanned dalam grup."
-                                  "\n\nAtau tambahkan secara manual @botmusikman ke Grup Anda dan coba lagi</b>",
+                                  "\n\nAtau tambahkan secara manual @asnachwan ke Grup Anda dan coba lagi</b>",
                               )
                               pass
     try:
@@ -643,10 +643,10 @@ async def deezer(client: Client, message_: Message):
              ],                     
              [
                     InlineKeyboardButton(
-                        "Group Support", url="https://t.me/SharingUserbot"
+                        "Channel Support", url="https://t.me/enzybotmusik"
                     ),
                     InlineKeyboardButton(
-                        "Owner Music Man", url="https://instagram.com/mrismanaziz_"
+                        "Owner Musik Enzy", url="https://instagram.com/ferdi_an04"
                     )
                 ],
              [       
@@ -779,10 +779,10 @@ async def jiosaavn(client: Client, message_: Message):
              ],                     
              [
                     InlineKeyboardButton(
-                        "Group Support", url="https://t.me/SharingUserbot"
+                        "Channel Updae", url="https://t.me/enzybotmusik"
                     ),
                     InlineKeyboardButton(
-                        "Owner Music Man", url="https://instagram.com/mrismanaziz_"
+                        "Owner Musik Enzy", url="https://instagram.com/ferdi_an04"
                     )
                 ],
              [       
