@@ -31,7 +31,7 @@ async def start(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [ 
                 [
-                    InlineKeyboardButton(https://t.me/enzybotmusik/3)
+                    InlineKeyboardButton("📜 Panduan Menggunakan BOT 📜", url="https://t.me/enzybotmusik/3"
                   ],[
                     InlineKeyboardButton(
                         "Group Support", url="https://t.me/enzybotmusik"
